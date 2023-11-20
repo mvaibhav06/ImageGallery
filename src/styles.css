@@ -1,0 +1,28 @@
+p {
+  padding: 0;
+  margin: 0;
+}
+
+.search-form {
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  width: 500px;
+}
+
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px;
+}
+
+.image {
+  border: 2px solid black;
+  padding: 10px;
+}
+
+.title {
+  color: rgb(206, 177, 182);
+}
